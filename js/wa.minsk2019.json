@@ -1,0 +1,132 @@
+{
+  "urls": {
+    "https://minsk2019.by/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Angular",
+      "confidence": "100",
+      "version": "7.2.4",
+      "icon": "Angular.svg",
+      "website": "https://angular.io",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "BugSnag",
+      "confidence": "100",
+      "version": null,
+      "icon": "BugSnag.png",
+      "website": "http://bugsnag.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "confidence": "100",
+      "version": null,
+      "icon": "google_cloud.svg",
+      "website": "https://cloud.google.com",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hammer.js",
+      "confidence": "100",
+      "version": "2.0.7",
+      "icon": "Hammer.js.png",
+      "website": "https://hammerjs.github.io",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Underscore.js",
+      "confidence": "100",
+      "version": "1.9.1",
+      "icon": "Underscore.js.png",
+      "website": "http://underscorejs.org",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Zone.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://github.com/angular/zone.js/",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "reCAPTCHA",
+      "confidence": "100",
+      "version": null,
+      "icon": "reCAPTCHA.png",
+      "website": "https://www.google.com/recaptcha/",
+      "categories": [
+        {
+          "16": "Captchas"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "en"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "urls": {
+    "http://rasales.by/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.16.0",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "100",
+      "version": "7.3.7",
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "TrackJs",
+      "confidence": "100",
+      "version": null,
+      "icon": "TrackJs.png",
+      "website": "http://trackjs.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Twitter Emoji (Twemoji)",
+      "confidence": "100",
+      "version": null,
+      "icon": "default.svg",
+      "website": "https://twitter.github.io/twemoji/",
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "WooCommerce",
+      "confidence": "100",
+      "version": "3.6.5",
+      "icon": "WooCommerce.png",
+      "website": "http://www.woothemes.com/woocommerce",
+      "categories": [
+        {
+          "6": "Ecommerce"
+        }
+      ]
+    },
+    {
+      "name": "WordPress",
+      "confidence": "100",
+      "version": "5.2.2",
+      "icon": "WordPress.svg",
+      "website": "https://wordpress.org",
+      "categories": [
+        {
+          "1": "CMS"
+        },
+        {
+          "11": "Blogs"
+        }
+      ]
+    },
+    {
+      "name": "Yoast SEO",
+      "confidence": "100",
+      "version": "11.7",
+      "icon": "Yoast SEO.png",
+      "website": "http://yoast.com",
+      "categories": [
+        {
+          "54": "SEO"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "1.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": "0",
+      "version": null,
+      "icon": "MySQL.svg",
+      "website": "http://mysql.com",
+      "categories": [
+        {
+          "34": "Databases"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "ru-RU"
+  }
+}

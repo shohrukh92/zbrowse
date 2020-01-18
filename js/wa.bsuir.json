@@ -1,0 +1,108 @@
+{
+  "urls": {
+    "https://bsuir.by/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "confidence": "100",
+      "version": null,
+      "icon": "Font Awesome.png",
+      "website": "http://fontawesome.io",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "confidence": "100",
+      "version": null,
+      "icon": "Java.png",
+      "website": "http://java.com",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Yandex.Metrika",
+      "confidence": "100",
+      "version": null,
+      "icon": "Yandex.Metrika.png",
+      "website": "http://metrika.yandex.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.9.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  }
+}
